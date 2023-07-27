@@ -1,0 +1,9 @@
+body {
+  background-color: pink;
+}
+#one {
+  height: 300px;
+  width: 300px;
+  background-color: rgb(255, 255, 255);
+  color: red;
+}

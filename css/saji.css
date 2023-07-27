@@ -1,0 +1,122 @@
+body{
+    background-color: white;
+}
+.box{
+    background-color: white;
+    border:3px solid black;
+    height:600px;
+    width:350px;
+    margin-left: 30px;
+
+}
+.nave{
+    background-color: bisque;
+    height:40px;
+}
+.navebar p{
+  margin-top: -20px; 
+  margin-left: 46px;
+  font-family: Cambria;
+  letter-spacing: 0.1em;
+
+}
+#img{
+    margin-top: 5px;
+    margin-left:10px ;
+}
+
+.logo{
+    margin-top: -30px;
+    height:40px;
+    margin-left: 48px;
+}
+.fb{
+    color: blue;
+ padding: 10px;
+    margin-top: 10px ;
+    margin-left: 110px;
+    width: 500px;
+    letter-spacing: 0.1em;
+    font-family:  'Times New Roman';
+    font-weight: 100px;
+    border:none;
+
+}
+#button{
+    background-color: blue;
+    color:white;
+    padding:10px;
+margin-top:10px ;
+    margin-left:10px;
+    width:300px;
+    letter-spacing: 0.1em;
+    font-family:  'Times New Roman';
+    font-weight:100px;
+    border:none;
+}
+#password{
+ margin-top:10px ;
+    margin-left:30px;
+    width:300px;
+ letter-spacing: 0.1em;
+ font-family: 'Times New Roman';
+ font-weight:50px;
+} 
+#log in{   
+    background-color: blue;
+    margin-top: 30px;
+    width:500px;
+    margin-left: 50px;
+    font-family: 'Times New Roman' ;
+}
+#but:hover{
+    background-color: aqua;
+}
+.forgot{
+    font-size: larger;
+    font-weight: 200;
+    font-family: 'Times New Roman', Times, serif;
+    color:blueviolet;
+    margin-left: 130px;
+    height:10px;
+    text-decoration: none;
+    display: block;
+} 
+.forgot:hover{
+    text-decoration: underline;
+}              
+.hr1{
+    width:160px ;
+    margin-left: 10px;
+}
+.or{
+    width:30px;
+    margin-left:180px ;
+    margin-top: -10px;
+}
+.hr2{
+    width:170px;
+    margin-left:200px;
+    margin-top:-10px;
+}
+.newAccountCreate a{
+    font-size: 16px;
+    margin-bottom: 5px;
+    color:#fff;
+    display:inline-block;
+    text-decoration: none;
+    font-weight:bold;
+    margin-top:-10px ;
+}
+.newAccountCreate a{
+    font-size: 16px;
+    margin-bottom: 5px;
+    color:#fff;
+    display:inline-block;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 15px 20px;
+    border-radius: 5px;
+    background-color: #44c52a;
+    margin-left: 90px;
+}
